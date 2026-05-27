@@ -1,0 +1,1 @@
+Página de Sanções Administrativas. Para inserir sanção real, envie o ato para arquivos/sancoes/ e edite dados/sancoes-administrativas.json.
